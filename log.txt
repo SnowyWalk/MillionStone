@@ -1,0 +1,219 @@
+Character ID : 3
+Card Index (17) : 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+6 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515485021_gt9eadw8.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515485023_d1jroiu8.png
+7 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515486025_tm7ihpjr.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515486027_tpvjfnaz.png
+176 -> https://imas.gamedbs.jp/mlth/image/card/img/1511244550001_8gihqjzv.png , https://imas.gamedbs.jp/mlth/image/card/img/1511244552003_nm52yivr.png
+236 -> https://imas.gamedbs.jp/mlth/image/card/img/1520057339001_di1a0t8u.png , https://imas.gamedbs.jp/mlth/image/card/img/1520057342003_s74cfxqm.png
+286 -> https://imas.gamedbs.jp/mlth/image/card/img/1527747492001_za2r8qdg.png , https://imas.gamedbs.jp/mlth/image/card/img/1527747496003_7hytzwfe.png
+305 -> https://imas.gamedbs.jp/mlth/image/card/img/1530202871009_anfcywxb.png , https://imas.gamedbs.jp/mlth/image/card/img/1530202873011_x13sj2in.png
+433 -> https://imas.gamedbs.jp/mlth/image/card/img/1542089121001_5exumgvw.png , https://imas.gamedbs.jp/mlth/image/card/img/1542089124003_rdzb1ul6.png
+471 -> https://imas.gamedbs.jp/mlth/image/card/img/1547273680001_rolxhqk5.png , https://imas.gamedbs.jp/mlth/image/card/img/1547273684003_f6gx13rm.png
+516 -> https://imas.gamedbs.jp/mlth/image/card/img/1553839595001_osz41fmt.png , https://imas.gamedbs.jp/mlth/image/card/img/1553839599003_1br4x3ps.png
+577 -> https://imas.gamedbs.jp/mlth/image/card/img/1561907855009_62i1hcl5.png , https://imas.gamedbs.jp/mlth/image/card/img/1561907857011_08n12ehb.png
+662 -> https://imas.gamedbs.jp/mlth/image/card/img/1566367437001_tcw7yxrd.png , https://imas.gamedbs.jp/mlth/image/card/img/1566367440003_1frxem4y.png
+671 -> https://imas.gamedbs.jp/mlth/image/card/img/1568182019001_y4lvijxp.png , https://imas.gamedbs.jp/mlth/image/card/img/1568182021003_7zv8prlq.png
+705 -> https://imas.gamedbs.jp/mlth/image/card/img/1571551672009_xwl0dbjn.png , https://imas.gamedbs.jp/mlth/image/card/img/1571551675011_m5ik341o.png
+759 -> https://imas.gamedbs.jp/mlth/image/card/img/1578809064001_izneg3vb.png , https://imas.gamedbs.jp/mlth/image/card/img/1578809067003_82snai0v.png
+767 -> https://imas.gamedbs.jp/mlth/image/card/img/1580450831001_gb0qmnvi.png , https://imas.gamedbs.jp/mlth/image/card/img/1580450835003_x43fa05t.png
+863 -> https://imas.gamedbs.jp/mlth/image/card/img/1592460204001_a726vhrf.png , https://imas.gamedbs.jp/mlth/image/card/img/1592460206003_hfbu8pad.png
+873 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357449009_0a8epsm7.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357451011_iw3gve8r.png
+Character ID : 4
+Card Index (16) : 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 
+8 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515486029_9hgke08i.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515487031_lxvhioa5.png
+9 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515487033_mxgu1vka.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515487035_20sxpzyk.png
+153 -> https://imas.gamedbs.jp/mlth/image/card/img/1507701948005_exjn2p4o.png , https://imas.gamedbs.jp/mlth/image/card/img/1507701951007_v6t54amo.png
+179 -> https://imas.gamedbs.jp/mlth/image/card/img/1512022562001_xdei2cu7.png , https://imas.gamedbs.jp/mlth/image/card/img/1512022566003_92yql3hv.png
+219 -> https://imas.gamedbs.jp/mlth/image/card/img/1518156465001_hjt3mo8v.png , https://imas.gamedbs.jp/mlth/image/card/img/1518156468003_xafm82t7.png
+259 -> https://imas.gamedbs.jp/mlth/image/card/img/1523426827001_ntafi75c.png , https://imas.gamedbs.jp/mlth/image/card/img/1523426830003_eadgm8vf.png
+306 -> https://imas.gamedbs.jp/mlth/image/card/img/1530202875013_hx8c2e04.png , https://imas.gamedbs.jp/mlth/image/card/img/1530202877015_iawpgk5l.png
+364 -> https://imas.gamedbs.jp/mlth/image/card/img/1531375799005_7dt8hxiq.png , https://imas.gamedbs.jp/mlth/image/card/img/1531375803007_0de742zb.png
+507 -> https://imas.gamedbs.jp/mlth/image/card/img/1552370985001_ldhsgkam.png , https://imas.gamedbs.jp/mlth/image/card/img/1552370989003_kcmvh3xw.png
+538 -> https://imas.gamedbs.jp/mlth/image/card/img/1556604624001_d6v5t0y3.png , https://imas.gamedbs.jp/mlth/image/card/img/1556604628003_keyavls7.png
+578 -> https://imas.gamedbs.jp/mlth/image/card/img/1561907859013_uscpd6x1.png , https://imas.gamedbs.jp/mlth/image/card/img/1561907861015_8twgz6jo.png
+634 -> https://imas.gamedbs.jp/mlth/image/card/img/1563084466001_njlcku9d.png , https://imas.gamedbs.jp/mlth/image/card/img/1563084472003_msy03lwn.png
+661 -> https://imas.gamedbs.jp/mlth/image/card/img/1566367443005_epjwn4ca.png , https://imas.gamedbs.jp/mlth/image/card/img/1566367447007_6hftag1z.png
+742 -> https://imas.gamedbs.jp/mlth/image/card/img/1576562685005_srnxpqyu.png , https://imas.gamedbs.jp/mlth/image/card/img/1576562688007_kt9em501.png
+774 -> https://imas.gamedbs.jp/mlth/image/card/img/1581401065001_sdkmx20b.png , https://imas.gamedbs.jp/mlth/image/card/img/1581401067003_89ql0c17.png
+874 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357453013_b85avftl.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357455015_m4qp5kgv.png
+Character ID : 13
+Card Index (16) : 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 13 
+26 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515497101_jq1hosw8.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515497103_sud10z9b.png
+27 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515498105_9td5pfgu.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515498107_ia2sgk9v.png
+133 -> https://imas.gamedbs.jp/mlth/image/card/img/1504159902001_83gumfkz.png , https://imas.gamedbs.jp/mlth/image/card/img/1504159906003_ho79zp0k.png
+212 -> https://imas.gamedbs.jp/mlth/image/card/img/1516946682005_cmhl7n1g.png , https://imas.gamedbs.jp/mlth/image/card/img/1516946685007_onj541u3.png
+260 -> https://imas.gamedbs.jp/mlth/image/card/img/1523426833005_hl5fq1ac.png , https://imas.gamedbs.jp/mlth/image/card/img/1523426837007_3e790a2n.png
+280 -> https://imas.gamedbs.jp/mlth/image/card/img/1526191442001_d0soratv.png , https://imas.gamedbs.jp/mlth/image/card/img/1526191444003_64h9k3ys.png
+315 -> https://imas.gamedbs.jp/mlth/image/card/img/1530202903049_3qgbpxl5.png , https://imas.gamedbs.jp/mlth/image/card/img/1530202904051_3ai4j7mb.png
+437 -> https://imas.gamedbs.jp/mlth/image/card/img/1542175455005_ie3xrlch.png , https://imas.gamedbs.jp/mlth/image/card/img/1542175469007_17403b8g.png
+447 -> https://imas.gamedbs.jp/mlth/image/card/img/1543903583001_vdxon0f7.png , https://imas.gamedbs.jp/mlth/image/card/img/1543903586003_je5gvtpn.png
+514 -> https://imas.gamedbs.jp/mlth/image/card/img/1553839608009_ub9810ty.png , https://imas.gamedbs.jp/mlth/image/card/img/1553839611011_la9uecv5.png
+587 -> https://imas.gamedbs.jp/mlth/image/card/img/1561907897049_09vj3lso.png , https://imas.gamedbs.jp/mlth/image/card/img/1561907898051_hd3stir7.png
+644 -> https://imas.gamedbs.jp/mlth/image/card/img/1564553536001_h4ok62se.png , https://imas.gamedbs.jp/mlth/image/card/img/1564553540003_dmpiceak.png
+677 -> https://imas.gamedbs.jp/mlth/image/card/img/1568873099001_1sp49b6f.png , https://imas.gamedbs.jp/mlth/image/card/img/1568873103003_r9ysvf8k.png
+740 -> https://imas.gamedbs.jp/mlth/image/card/img/1576562698013_9rvp21sn.png , https://imas.gamedbs.jp/mlth/image/card/img/1576562699015_04kdy91q.png
+804 -> https://imas.gamedbs.jp/mlth/image/card/img/1584511401001_bfi0a15e.png , https://imas.gamedbs.jp/mlth/image/card/img/1584511403003_npsmejyo.png
+883 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357491049_kcotmfiq.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357493051_s4m7wv58.png
+Character ID : 19
+Card Index (18) : 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 19 
+40 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515507157_qci10m37.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515507159_0e7kzh21.png
+41 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515508161_urf746dw.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515508163_ea24p53k.png
+130 -> https://imas.gamedbs.jp/mlth/image/card/img/1503469383005_p1k38arz.png , https://imas.gamedbs.jp/mlth/image/card/img/1503469386007_vdl2hzkt.png
+148 -> https://imas.gamedbs.jp/mlth/image/card/img/1506752204005_5bl9f8vs.png , https://imas.gamedbs.jp/mlth/image/card/img/1506752208007_qtbmegij.png
+183 -> https://imas.gamedbs.jp/mlth/image/card/img/1512367608005_f87msnri.png , https://imas.gamedbs.jp/mlth/image/card/img/1512367610007_vkjgm9e5.png
+267 -> https://imas.gamedbs.jp/mlth/image/card/img/1524377018005_qig6pchk.png , https://imas.gamedbs.jp/mlth/image/card/img/1524377022007_1ye2aij8.png
+300 -> https://imas.gamedbs.jp/mlth/image/card/img/1529302192005_wxz8y19f.png , https://imas.gamedbs.jp/mlth/image/card/img/1529302195007_g15jhtn6.png
+321 -> https://imas.gamedbs.jp/mlth/image/card/img/1530202922073_2ylt3rqf.png , https://imas.gamedbs.jp/mlth/image/card/img/1530202924075_n8jqf936.png
+382 -> https://imas.gamedbs.jp/mlth/image/card/img/1534226690009_alogti8m.png , https://imas.gamedbs.jp/mlth/image/card/img/1534226693011_c1fr0ot6.png
+501 -> https://imas.gamedbs.jp/mlth/image/card/img/1551679671001_bx294nyq.png , https://imas.gamedbs.jp/mlth/image/card/img/1551679675003_g78or3p1.png
+593 -> https://imas.gamedbs.jp/mlth/image/card/img/1561907922073_79grn4yp.png , https://imas.gamedbs.jp/mlth/image/card/img/1561907924075_ytwpgndk.png
+654 -> https://imas.gamedbs.jp/mlth/image/card/img/1565676338005_987eqh3x.png , https://imas.gamedbs.jp/mlth/image/card/img/1565676342007_5z2rgsjy.png
+666 -> https://imas.gamedbs.jp/mlth/image/card/img/1567231836005_l41q9mfk.png , https://imas.gamedbs.jp/mlth/image/card/img/1567231846007_n58qrtfy.png
+720 -> https://imas.gamedbs.jp/mlth/image/card/img/1573970521005_flkx72tv.png , https://imas.gamedbs.jp/mlth/image/card/img/1573970523007_9so760ve.png
+784 -> https://imas.gamedbs.jp/mlth/image/card/img/1582006295009_cyoms2ej.png , https://imas.gamedbs.jp/mlth/image/card/img/1582006298011_owitn467.png
+817 -> https://imas.gamedbs.jp/mlth/image/card/img/1586584973005_u7maxkrd.png , https://imas.gamedbs.jp/mlth/image/card/img/1586584976007_fjemdbot.png
+889 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357517073_wa6dn0ug.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357519075_vin58ake.png
+960 -> https://imas.gamedbs.jp/mlth/image/card/img/1596434581001_dch19eaq.png , https://imas.gamedbs.jp/mlth/image/card/img/1596434583003_qipz5kyh.png
+Character ID : 21
+Card Index (20) : 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 21 
+44 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515510173_ko1qb57t.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515510175_zwybn58d.png
+45 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515511177_bnyi6lh7.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515511179_hx3bvln4.png
+114 -> https://imas.gamedbs.jp/mlth/image/card/img/1500617116005_khyuln0i.png , https://imas.gamedbs.jp/mlth/image/card/img/1500617121007_k3cunwm2.png
+194 -> https://imas.gamedbs.jp/mlth/image/card/img/1513836803009_fu8qz5oh.png , https://imas.gamedbs.jp/mlth/image/card/img/1513836806011_e5zsldpq.png
+223 -> https://imas.gamedbs.jp/mlth/image/card/img/1518329217017_e2ps3kjg.png , https://imas.gamedbs.jp/mlth/image/card/img/1518329220019_hibqo4jw.png
+274 -> https://imas.gamedbs.jp/mlth/image/card/img/1526018638009_y6xjh5zl.png , https://imas.gamedbs.jp/mlth/image/card/img/1526018642011_uc8s51no.png
+323 -> https://imas.gamedbs.jp/mlth/image/card/img/1530202929081_l8xyaw25.png , https://imas.gamedbs.jp/mlth/image/card/img/1530202931083_vs5egl68.png
+392 -> https://imas.gamedbs.jp/mlth/image/card/img/1535695935001_ho6n7lk1.png , https://imas.gamedbs.jp/mlth/image/card/img/1535695939003_ivd0r6y8.png
+440 -> https://imas.gamedbs.jp/mlth/image/card/img/1542780653009_xceoil24.png , https://imas.gamedbs.jp/mlth/image/card/img/1542780656011_z9d3gwbl.png
+478 -> https://imas.gamedbs.jp/mlth/image/card/img/1547964407001_zxgiphmy.png , https://imas.gamedbs.jp/mlth/image/card/img/1547964411003_9va432bg.png
+502 -> https://imas.gamedbs.jp/mlth/image/card/img/1552284830005_862tv93j.png , https://imas.gamedbs.jp/mlth/image/card/img/1552284834007_tayhe1mb.png
+595 -> https://imas.gamedbs.jp/mlth/image/card/img/1561907930081_p7xc4g1k.png , https://imas.gamedbs.jp/mlth/image/card/img/1561907932083_vag8o5wf.png
+658 -> https://imas.gamedbs.jp/mlth/image/card/img/1566281212001_bmigy8f2.png , https://imas.gamedbs.jp/mlth/image/card/img/1566281213003_z4xwrdy8.png
+679 -> https://imas.gamedbs.jp/mlth/image/card/img/1568873106005_d8h09c74.png , https://imas.gamedbs.jp/mlth/image/card/img/1568873111007_eoa4dpby.png
+728 -> https://imas.gamedbs.jp/mlth/image/card/img/1575094311005_2aji1y9q.png , https://imas.gamedbs.jp/mlth/image/card/img/1575094314007_6mbyjd0p.png
+756 -> https://imas.gamedbs.jp/mlth/image/card/img/1578722922005_se85atw9.png , https://imas.gamedbs.jp/mlth/image/card/img/1578722925007_4yn3emvt.png
+771 -> https://imas.gamedbs.jp/mlth/image/card/img/1580623396001_sy4t10dq.png , https://imas.gamedbs.jp/mlth/image/card/img/1580623398003_51zy2lrp.png
+798 -> https://imas.gamedbs.jp/mlth/image/card/img/1583906513009_47ct59iq.png , https://imas.gamedbs.jp/mlth/image/card/img/1583906516011_b7iu5x9l.png
+869 -> https://imas.gamedbs.jp/mlth/image/card/img/1593324081001_e5w6fr2n.png , https://imas.gamedbs.jp/mlth/image/card/img/1593324085003_fr9s30pd.png
+891 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357525081_t31zhrcb.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357527083_1rnmfg48.png
+Character ID : 22
+Card Index (19) : 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 22 
+46 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515512181_8c16u7ix.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515512183_lrizmagc.png
+47 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515512185_e7g5pd9h.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515513187_hqo9kwn0.png
+116 -> https://imas.gamedbs.jp/mlth/image/card/img/1500876590001_gcyp5ean.png , https://imas.gamedbs.jp/mlth/image/card/img/1500876593003_i8jr1y4x.png
+155 -> https://imas.gamedbs.jp/mlth/image/card/img/1507874694001_01kf73yv.png , https://imas.gamedbs.jp/mlth/image/card/img/1507874698003_f8sth39b.png
+250 -> https://imas.gamedbs.jp/mlth/image/card/img/1522235316001_0mhowsgt.png , https://imas.gamedbs.jp/mlth/image/card/img/1522235320003_q9e6odsi.png
+288 -> https://imas.gamedbs.jp/mlth/image/card/img/1527747506009_6z5a4crb.png , https://imas.gamedbs.jp/mlth/image/card/img/1527747510011_92n4ek6l.png
+324 -> https://imas.gamedbs.jp/mlth/image/card/img/1530202933085_sae6vho0.png , https://imas.gamedbs.jp/mlth/image/card/img/1530202935087_wlyzu39s.png
+413 -> https://imas.gamedbs.jp/mlth/image/card/img/1538546651005_7wo0arjt.png , https://imas.gamedbs.jp/mlth/image/card/img/1538546654007_g0po6vw5.png
+474 -> https://imas.gamedbs.jp/mlth/image/card/img/1547359579005_3kcxu7ia.png , https://imas.gamedbs.jp/mlth/image/card/img/1547359582007_ly3k97xm.png
+513 -> https://imas.gamedbs.jp/mlth/image/card/img/1552975640001_c7tajhgk.png , https://imas.gamedbs.jp/mlth/image/card/img/1552975643003_7n9zu6ah.png
+552 -> https://imas.gamedbs.jp/mlth/image/card/img/1558332765009_jl7typdc.png , https://imas.gamedbs.jp/mlth/image/card/img/1558332769011_kbft5mcj.png
+596 -> https://imas.gamedbs.jp/mlth/image/card/img/1561907934085_7iebpcqh.png , https://imas.gamedbs.jp/mlth/image/card/img/1561907936087_40pn36ug.png
+653 -> https://imas.gamedbs.jp/mlth/image/card/img/1565676346009_ipdv8rjs.png , https://imas.gamedbs.jp/mlth/image/card/img/1565676349011_d9ynkts5.png
+680 -> https://imas.gamedbs.jp/mlth/image/card/img/1568873114009_9tzo0nih.png , https://imas.gamedbs.jp/mlth/image/card/img/1568873118011_wvzqliab.png
+741 -> https://imas.gamedbs.jp/mlth/image/card/img/1576562701017_p2q0ucb3.png , https://imas.gamedbs.jp/mlth/image/card/img/1576562703019_qhalfcu3.png
+749 -> https://imas.gamedbs.jp/mlth/image/card/img/1577772443009_o3w2zral.png , https://imas.gamedbs.jp/mlth/image/card/img/1577772447011_sznivwl8.png
+867 -> https://imas.gamedbs.jp/mlth/image/card/img/1592460224013_neohd5a6.png , https://imas.gamedbs.jp/mlth/image/card/img/1592460227015_2khj4dza.png
+892 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357530085_06bhcmsv.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357532087_9r2pw80d.png
+950 -> https://imas.gamedbs.jp/mlth/image/card/img/1595225103005_jqvfb7c3.png , https://imas.gamedbs.jp/mlth/image/card/img/1595225106007_yuql12hf.png
+Character ID : 24
+Card Index (18) : 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24 
+50 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515515197_s4lqnuhi.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515516199_z9nqwy4v.png
+51 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515517201_6qk9tox7.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515518203_v3jns4ul.png
+140 -> https://imas.gamedbs.jp/mlth/image/card/img/1505196433005_zw2cx3n7.png , https://imas.gamedbs.jp/mlth/image/card/img/1505196436007_ln4bzki5.png
+180 -> https://imas.gamedbs.jp/mlth/image/card/img/1512022570005_mvur0h3o.png , https://imas.gamedbs.jp/mlth/image/card/img/1512022573007_1zp90a4j.png
+242 -> https://imas.gamedbs.jp/mlth/image/card/img/1521007759005_e9oil1qs.png , https://imas.gamedbs.jp/mlth/image/card/img/1521007762007_314qzwf6.png
+326 -> https://imas.gamedbs.jp/mlth/image/card/img/1530202939093_u9cq0nxr.png , https://imas.gamedbs.jp/mlth/image/card/img/1530202941095_tbp3meyd.png
+361 -> https://imas.gamedbs.jp/mlth/image/card/img/1531375812013_6nmq9x3c.png , https://imas.gamedbs.jp/mlth/image/card/img/1531375815015_qje1052b.png
+407 -> https://imas.gamedbs.jp/mlth/image/card/img/1537510018005_d9zuf76k.png , https://imas.gamedbs.jp/mlth/image/card/img/1537510020007_1r95skbe.png
+483 -> https://imas.gamedbs.jp/mlth/image/card/img/1549087949001_p9o56abm.png , https://imas.gamedbs.jp/mlth/image/card/img/1549087953003_fa7sv52k.png
+533 -> https://imas.gamedbs.jp/mlth/image/card/img/1555654440009_2kl5b4zp.png , https://imas.gamedbs.jp/mlth/image/card/img/1555654441011_vn2zhupw.png
+598 -> https://imas.gamedbs.jp/mlth/image/card/img/1561907943093_e8bznh9c.png , https://imas.gamedbs.jp/mlth/image/card/img/1561907945095_ajnbkzmh.png
+660 -> https://imas.gamedbs.jp/mlth/image/card/img/1566281214005_l57hpwfy.png , https://imas.gamedbs.jp/mlth/image/card/img/1566281219007_5hw2fdsi.png
+718 -> https://imas.gamedbs.jp/mlth/image/card/img/1573365741001_5v47fw2i.png , https://imas.gamedbs.jp/mlth/image/card/img/1573365744003_0xyvabrz.png
+746 -> https://imas.gamedbs.jp/mlth/image/card/img/1577253940001_kxmblhra.png , https://imas.gamedbs.jp/mlth/image/card/img/1577253943003_5wjxezl2.png
+776 -> https://imas.gamedbs.jp/mlth/image/card/img/1581401071009_jcud270h.png , https://imas.gamedbs.jp/mlth/image/card/img/1581401075011_jnyho2ax.png
+816 -> https://imas.gamedbs.jp/mlth/image/card/img/1586584980009_tv5i3hlo.png , https://imas.gamedbs.jp/mlth/image/card/img/1586584982011_qvwk7tlz.png
+831 -> https://imas.gamedbs.jp/mlth/image/card/img/1588226527009_mbkn6avi.png , https://imas.gamedbs.jp/mlth/image/card/img/1588226530011_8lg79v4n.png
+894 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357539093_n5kjai0x.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357541095_8vfsqnru.png
+Character ID : 31
+Card Index (17) : 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 31 
+64 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515527253_ua1fgmch.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515527255_7xuwtbzn.png
+65 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515527257_1li8pf7w.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515528259_hy8si21t.png
+135 -> https://imas.gamedbs.jp/mlth/image/card/img/1504159910005_7zlv3n09.png , https://imas.gamedbs.jp/mlth/image/card/img/1504159913007_t3os5fda.png
+210 -> https://imas.gamedbs.jp/mlth/image/card/img/1516342451001_3avgpwre.png , https://imas.gamedbs.jp/mlth/image/card/img/1516342454003_g37jckza.png
+266 -> https://imas.gamedbs.jp/mlth/image/card/img/1524377025009_oiu9v87k.png , https://imas.gamedbs.jp/mlth/image/card/img/1524377029011_znmhgy8x.png
+295 -> https://imas.gamedbs.jp/mlth/image/card/img/1528870144005_ufv7mclp.png , https://imas.gamedbs.jp/mlth/image/card/img/1528870149007_9wnsq37c.png
+333 -> https://imas.gamedbs.jp/mlth/image/card/img/1530202964121_xpf0d5yc.png , https://imas.gamedbs.jp/mlth/image/card/img/1530202966123_1gimz730.png
+394 -> https://imas.gamedbs.jp/mlth/image/card/img/1535955204001_cu92xpny.png , https://imas.gamedbs.jp/mlth/image/card/img/1535955208003_wh3de45q.png
+427 -> https://imas.gamedbs.jp/mlth/image/card/img/1540966221005_bo1cnpzt.png , https://imas.gamedbs.jp/mlth/image/card/img/1540966225007_6iugzl7b.png
+451 -> https://imas.gamedbs.jp/mlth/image/card/img/1544616710009_uc62fvzh.png , https://imas.gamedbs.jp/mlth/image/card/img/1544616713011_kqdni8r7.png
+505 -> https://imas.gamedbs.jp/mlth/image/card/img/1552284837009_yfuml39h.png , https://imas.gamedbs.jp/mlth/image/card/img/1552284840011_nheib87c.png
+532 -> https://imas.gamedbs.jp/mlth/image/card/img/1555049289009_tyz59spq.png , https://imas.gamedbs.jp/mlth/image/card/img/1555049292011_k2y0ulws.png
+557 -> https://imas.gamedbs.jp/mlth/image/card/img/1559283172005_f9bkdgnh.png , https://imas.gamedbs.jp/mlth/image/card/img/1559283176007_czpxv7br.png
+605 -> https://imas.gamedbs.jp/mlth/image/card/img/1561907972121_9ks8lv3h.png , https://imas.gamedbs.jp/mlth/image/card/img/1561907974123_dh5tjlsb.png
+688 -> https://imas.gamedbs.jp/mlth/image/card/img/1569909776009_wat9hy64.png , https://imas.gamedbs.jp/mlth/image/card/img/1569909777011_ah320cnf.png
+868 -> https://imas.gamedbs.jp/mlth/image/card/img/1593324089005_mlt5rpna.png , https://imas.gamedbs.jp/mlth/image/card/img/1593324091007_prdymgs5.png
+901 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357569121_54fcgj8n.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357571123_n04rxd5m.png
+Character ID : 39
+Card Index (19) : 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 39 
+80 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515538317_tesmpkfu.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515539319_2w8kpd7j.png
+81 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515539321_pkuiz74l.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515539323_nefj8u3c.png
+112 -> https://imas.gamedbs.jp/mlth/image/card/img/1499925955009_84iawkfm.png , https://imas.gamedbs.jp/mlth/image/card/img/1499925958011_21nojqv4.png
+202 -> https://imas.gamedbs.jp/mlth/image/card/img/1515737430009_lvxe1pos.png , https://imas.gamedbs.jp/mlth/image/card/img/1515737434011_2luvjare.png
+234 -> https://imas.gamedbs.jp/mlth/image/card/img/1519798176005_cfhpqs74.png , https://imas.gamedbs.jp/mlth/image/card/img/1519798179007_r3cugjzl.png
+276 -> https://imas.gamedbs.jp/mlth/image/card/img/1526018647013_zunrw0tm.png , https://imas.gamedbs.jp/mlth/image/card/img/1526018650015_538qjz1l.png
+341 -> https://imas.gamedbs.jp/mlth/image/card/img/1530202992153_jgn3mx0o.png , https://imas.gamedbs.jp/mlth/image/card/img/1530202993155_gr0ipcku.png
+358 -> https://imas.gamedbs.jp/mlth/image/card/img/1530598491009_if6un71c.png , https://imas.gamedbs.jp/mlth/image/card/img/1530598495011_pil214dh.png
+424 -> https://imas.gamedbs.jp/mlth/image/card/img/1540188531005_r7sko0wu.png , https://imas.gamedbs.jp/mlth/image/card/img/1540188534007_kjcbd0nz.png
+485 -> https://imas.gamedbs.jp/mlth/image/card/img/1549865079009_kcufwbja.png , https://imas.gamedbs.jp/mlth/image/card/img/1549865082011_vqxa7h4l.png
+544 -> https://imas.gamedbs.jp/mlth/image/card/img/1557555064013_8j5uhtdv.png , https://imas.gamedbs.jp/mlth/image/card/img/1557555068015_8x2bkpmw.png
+613 -> https://imas.gamedbs.jp/mlth/image/card/img/1561908003153_p53yhezo.png , https://imas.gamedbs.jp/mlth/image/card/img/1561908005155_aqkbmh05.png
+694 -> https://imas.gamedbs.jp/mlth/image/card/img/1570860563025_ykijm74x.png , https://imas.gamedbs.jp/mlth/image/card/img/1570860566027_03oyfza2.png
+723 -> https://imas.gamedbs.jp/mlth/image/card/img/1574057866001_3hl6x7nz.png , https://imas.gamedbs.jp/mlth/image/card/img/1574057868003_h0as4uvi.png
+803 -> https://imas.gamedbs.jp/mlth/image/card/img/1584511427021_fdrcblok.png , https://imas.gamedbs.jp/mlth/image/card/img/1584511431023_7k0h9mua.png
+819 -> https://imas.gamedbs.jp/mlth/image/card/img/1586585000021_azr9hby8.png , https://imas.gamedbs.jp/mlth/image/card/img/1586585001023_ar6ox41n.png
+833 -> https://imas.gamedbs.jp/mlth/image/card/img/1588399289005_493c1usx.png , https://imas.gamedbs.jp/mlth/image/card/img/1588399292007_ovqtpkn0.png
+909 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357602153_akuyhbcs.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357604155_whkndlte.png
+958 -> https://imas.gamedbs.jp/mlth/image/card/img/1596175312009_iv1kgxln.png , https://imas.gamedbs.jp/mlth/image/card/img/1596175316011_zhxtmpek.png
+Character ID : 42
+Card Index (18) : 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 42 
+86 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515542341_v8sznl7e.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515543343_gl21phdo.png
+87 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515543345_k93oh1fi.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515544347_gk647a9h.png
+127 -> https://imas.gamedbs.jp/mlth/image/card/img/1503382066009_8bcr2evh.png , https://imas.gamedbs.jp/mlth/image/card/img/1503382069011_hfg6o9y7.png
+157 -> https://imas.gamedbs.jp/mlth/image/card/img/1507874709009_iav01n4f.png , https://imas.gamedbs.jp/mlth/image/card/img/1507874712011_jouqbih5.png
+185 -> https://imas.gamedbs.jp/mlth/image/card/img/1513145208013_na1hvb5c.png , https://imas.gamedbs.jp/mlth/image/card/img/1513145211015_1rc4gnfe.png
+229 -> https://imas.gamedbs.jp/mlth/image/card/img/1518761371005_d52caqrp.png , https://imas.gamedbs.jp/mlth/image/card/img/1518761374007_bok048yg.png
+344 -> https://imas.gamedbs.jp/mlth/image/card/img/1530203001165_dcuz8ysj.png , https://imas.gamedbs.jp/mlth/image/card/img/1530203003167_ljhgvsd0.png
+403 -> https://imas.gamedbs.jp/mlth/image/card/img/1537510023009_d4fm5atn.png , https://imas.gamedbs.jp/mlth/image/card/img/1537510026011_ghd5v1qu.png
+475 -> https://imas.gamedbs.jp/mlth/image/card/img/1547964427013_p1regqaw.png , https://imas.gamedbs.jp/mlth/image/card/img/1547964428015_crqxudbl.png
+490 -> https://imas.gamedbs.jp/mlth/image/card/img/1549951626005_rfiyoz56.png , https://imas.gamedbs.jp/mlth/image/card/img/1549951630007_tq954k0y.png
+511 -> https://imas.gamedbs.jp/mlth/image/card/img/1552975658017_7t1yzgx6.png , https://imas.gamedbs.jp/mlth/image/card/img/1552975661019_6d2abrxk.png
+616 -> https://imas.gamedbs.jp/mlth/image/card/img/1561908016165_eyonbufq.png , https://imas.gamedbs.jp/mlth/image/card/img/1561908018167_bnkyuorp.png
+726 -> https://imas.gamedbs.jp/mlth/image/card/img/1575094326013_8un2490q.png , https://imas.gamedbs.jp/mlth/image/card/img/1575094330015_i6cefwau.png
+770 -> https://imas.gamedbs.jp/mlth/image/card/img/1580623401005_05xcahyq.png , https://imas.gamedbs.jp/mlth/image/card/img/1580623405007_czu2radh.png
+802 -> https://imas.gamedbs.jp/mlth/image/card/img/1584511435025_cius7kox.png , https://imas.gamedbs.jp/mlth/image/card/img/1584511438027_cbyta74i.png
+838 -> https://imas.gamedbs.jp/mlth/image/card/img/1589176909021_sboc6erp.png , https://imas.gamedbs.jp/mlth/image/card/img/1589176912023_3kwigj08.png
+870 -> https://imas.gamedbs.jp/mlth/image/card/img/1593324094009_m3e8t214.png , https://imas.gamedbs.jp/mlth/image/card/img/1593324097011_nzf5t3qg.png
+912 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357615165_4lc6qmru.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357617167_qzdng3hs.png
+Character ID : 47
+Card Index (19) : 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 47 
+96 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515550381_b0qthcm1.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515550383_eg76si0r.png
+97 -> https://imas.gamedbs.jp/mlth/image/card/img/1499515550385_gr86e4w9.png , https://imas.gamedbs.jp/mlth/image/card/img/1499515551387_qb58a4os.png
+169 -> https://imas.gamedbs.jp/mlth/image/card/img/1510380354009_q2gw9o5b.png , https://imas.gamedbs.jp/mlth/image/card/img/1510380357011_bd6hjvop.png
+211 -> https://imas.gamedbs.jp/mlth/image/card/img/1516946689009_9cdevanp.png , https://imas.gamedbs.jp/mlth/image/card/img/1516946693011_s6mjaihp.png
+237 -> https://imas.gamedbs.jp/mlth/image/card/img/1520057346005_4qme0i9j.png , https://imas.gamedbs.jp/mlth/image/card/img/1520057349007_75nbew6h.png
+285 -> https://imas.gamedbs.jp/mlth/image/card/img/1526969101009_sfmzp4gh.png , https://imas.gamedbs.jp/mlth/image/card/img/1526969104011_jl2z94ow.png
+349 -> https://imas.gamedbs.jp/mlth/image/card/img/1530203019185_4735nmjq.png , https://imas.gamedbs.jp/mlth/image/card/img/1530203020187_fqvwytis.png
+371 -> https://imas.gamedbs.jp/mlth/image/card/img/1532153468017_e2zng3wq.png , https://imas.gamedbs.jp/mlth/image/card/img/1532153473019_czs05vdq.png
+480 -> https://imas.gamedbs.jp/mlth/image/card/img/1548915556009_m8gufocz.png , https://imas.gamedbs.jp/mlth/image/card/img/1548915560011_vh1pn64c.png
+541 -> https://imas.gamedbs.jp/mlth/image/card/img/1556777010005_7g8yzqcv.png , https://imas.gamedbs.jp/mlth/image/card/img/1556777013007_itcbupgm.png
+621 -> https://imas.gamedbs.jp/mlth/image/card/img/1561908035185_61dw2heq.png , https://imas.gamedbs.jp/mlth/image/card/img/1561908037187_dkiybfvu.png
+643 -> https://imas.gamedbs.jp/mlth/image/card/img/1563861933017_kuifbrva.png , https://imas.gamedbs.jp/mlth/image/card/img/1563861935019_ozw5eshq.png
+670 -> https://imas.gamedbs.jp/mlth/image/card/img/1568182049017_vpotjne1.png , https://imas.gamedbs.jp/mlth/image/card/img/1568182053019_9msf34id.png
+678 -> https://imas.gamedbs.jp/mlth/image/card/img/1568873121013_4z263b5e.png , https://imas.gamedbs.jp/mlth/image/card/img/1568873125015_8hgspa21.png
+763 -> https://imas.gamedbs.jp/mlth/image/card/img/1579500606013_7km9gcdx.png , https://imas.gamedbs.jp/mlth/image/card/img/1579500609015_skew84q3.png
+780 -> https://imas.gamedbs.jp/mlth/image/card/img/1582006314021_eydk8zlf.png , https://imas.gamedbs.jp/mlth/image/card/img/1582006318023_aq7i5v1x.png
+795 -> https://imas.gamedbs.jp/mlth/image/card/img/1583906534025_2vqmxfse.png , https://imas.gamedbs.jp/mlth/image/card/img/1583906535027_1ics2ydx.png
+917 -> https://imas.gamedbs.jp/mlth/image/card/img/1593357636185_1m9w4cok.png , https://imas.gamedbs.jp/mlth/image/card/img/1593357638187_ta6z2wgq.png
+949 -> https://imas.gamedbs.jp/mlth/image/card/img/1595225128021_m7flyjib.png , https://imas.gamedbs.jp/mlth/image/card/img/1595225129023_iq19za8o.png
