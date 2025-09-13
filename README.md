@@ -1,8 +1,6 @@
 ﻿# MillionStone
 밀리스톤  
 
-문의는 chunsa1166@gmail.com 여기로 주세요.
-
 DDS팩은 "DDS 완성본 백업" 폴더 안에 있는 최신 zip파일을 받아서 압축해제 해서 쓰시면 됩니다.  
 * 경로 : \Hearthstone\SK_Res\inject\textures
 
